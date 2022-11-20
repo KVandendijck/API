@@ -18,11 +18,11 @@ De front-end is een klein beetje gestyled, hij heeft een zachte
 achtergrondkleur, 1 tekstvak voor de post met een button, 2 buttons voor
 de GET-requests,
 
-Open API
+* ### Open API
 
 ![](media/image1.png)
 
-Website
+* ### Website
 
 ![Afbeelding met tekst Automatisch gegenereerde
 beschrijving](media/image2.png)
@@ -34,7 +34,7 @@ beschrijving](media/image3.png)
 
 ![](media/image5.png)
 
-Postman
+* ### Postman
 
 ![Afbeelding met tekst Automatisch gegenereerde
 beschrijving](media/image6.png)
@@ -45,7 +45,7 @@ beschrijving](media/image7.png)
 ![Afbeelding met tekst Automatisch gegenereerde
 beschrijving](media/image8.png)
 
-Links
+* ### Links
 
   - Front-end repository:
     <https://github.com/KVandendijck/KVandendijck.github.io>
