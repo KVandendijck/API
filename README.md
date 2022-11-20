@@ -1,6 +1,6 @@
-## API-project
-#Kobe Vandendijck
-2CCS02
+# **ReadMe project-api**
+## Kobe Vandendijck 2CCS02
+
 
 In deze opdracht moesten we voor de eerste keer onze eigen API maken. Ik
 koos ervoor om mijn eigen API te linken aan Twitter, en hier dan
