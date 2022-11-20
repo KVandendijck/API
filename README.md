@@ -2,6 +2,7 @@
 ## Kobe Vandendijck 2CCS02
 
 
+* ### Thema
 In deze opdracht moesten we voor de eerste keer onze eigen API maken. Ik
 koos ervoor om mijn eigen API te linken aan Twitter, en hier dan
 informatie af te halen. Ik heb in totaal 2 GET-requests en 1
