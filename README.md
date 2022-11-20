@@ -20,7 +20,7 @@ de GET-requests,
 
 * ### Open API
 
-![](media/image1.png)
+![image](https://user-images.githubusercontent.com/91118329/202916629-33350571-ab62-4e72-9fed-ae37579dd584.png)
 
 * ### Website
 
